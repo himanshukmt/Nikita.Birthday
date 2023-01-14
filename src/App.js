@@ -1,25 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
-
+import React from 'react';
+import VariationsExample from './badge';
+import UncontrolledExample from './corosol';
+import FontLink from './font';
+import GroupExample from './cards34';
+import FontLink2 from './fonts';
+import GroupExample1 from './cardd';
+import FigureExample from './figure3';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <br></br><FigureExample></FigureExample><br></br>
+   <VariationsExample></VariationsExample><br></br>
+      <br></br>
+     <br></br> <GroupExample></GroupExample>
+      <FontLink></FontLink>
+      <UncontrolledExample></UncontrolledExample>
+      <FontLink2></FontLink2>
+      <GroupExample1></GroupExample1>
     </div>
   );
 }
-
 export default App;

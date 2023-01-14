@@ -1,0 +1,1 @@
+import Image  from "C:/Birthday/nikita/src/via GIFER.gif";

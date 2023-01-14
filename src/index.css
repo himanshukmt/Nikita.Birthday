@@ -1,13 +1,33 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Love Ya Like A Sister', cursive;
 }
-
+img {
+  width: 20cm;
+  height: 22cm;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.font-link {
+  font-family: 'Love Ya Like A Sister', cursive;
+  background-color: rgb(247, 187, 228);
+}
+.card-img-top {
+  height: 482px;
+  object-fit:cover;
+  border-radius: 1cm;
+
+}
+.figure-img {
+  height: 6.5cm;
+  width: 6.5cm;
+  position:absolute;
+  left: 0mm;
+  top: 0mm;
+}
+
+
