@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nikita.Birthday/static/css/main.a677552d.css",
+    "main.css": "/Nikita.Birthday/static/css/main.e4e6258c.css",
     "main.js": "/Nikita.Birthday/static/js/main.21b78e19.js",
     "static/js/787.dacf77e6.chunk.js": "/Nikita.Birthday/static/js/787.dacf77e6.chunk.js",
     "static/media/Line Heart logo by smault23.gif": "/Nikita.Birthday/static/media/Line Heart logo by smault23.7c96a2535c45ebabb889.gif",
@@ -14,12 +14,12 @@
     "static/media/71Ub6aiMV5L._AC_UF1000,1000_QL80_FMwebp_.webp": "/Nikita.Birthday/static/media/71Ub6aiMV5L._AC_UF1000,1000_QL80_FMwebp_.b94d8945bdee41a4154b.webp",
     "static/media/IMG_20230113_011155.jpg": "/Nikita.Birthday/static/media/IMG_20230113_011155.80924a0de930e5e979c9.jpg",
     "index.html": "/Nikita.Birthday/index.html",
-    "main.a677552d.css.map": "/Nikita.Birthday/static/css/main.a677552d.css.map",
+    "main.e4e6258c.css.map": "/Nikita.Birthday/static/css/main.e4e6258c.css.map",
     "main.21b78e19.js.map": "/Nikita.Birthday/static/js/main.21b78e19.js.map",
     "787.dacf77e6.chunk.js.map": "/Nikita.Birthday/static/js/787.dacf77e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a677552d.css",
+    "static/css/main.e4e6258c.css",
     "static/js/main.21b78e19.js"
   ]
 }
